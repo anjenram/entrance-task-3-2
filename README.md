@@ -7,3 +7,7 @@
 - [входные данные](./data/input.json)
 - [выходные данные](./data/output.json)
 
+```sh
+$ npm i
+$ npm start
+```   
